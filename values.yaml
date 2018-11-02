@@ -97,6 +97,6 @@ zoneFiles:
    - filename: example.db
      domain: example.com
      contents: |
-      example.com.   IN SOA slocalhost. root.localhost. 2015082541 7200 3600 1209600 3600
+      example.com.   IN SOA localhost. root.localhost. 2018110201 7200 3600 1209600 3600
       example.com.   IN NS  localhost.
       *.example.com. IN A   61.218.118.230
